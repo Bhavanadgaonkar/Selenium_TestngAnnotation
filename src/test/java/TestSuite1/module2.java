@@ -11,6 +11,7 @@ public class module2 {
 	@Test
 	public void testcase002() {
 		System.out.println("I am executing test case 002");
+		System.out.println("I am executing test case 002");
 	}
 	@Test
 	public void testcase003() {

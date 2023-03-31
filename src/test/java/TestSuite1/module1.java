@@ -25,6 +25,7 @@ public class module1 {
 	@BeforeSuite
 	public void beforesuite() {
 		System.out.println("I am executing test cases before suite");
+		System.out.println("I am executing test cases before suite");
 	}
 	@BeforeTest
 		public void beforetest() {
